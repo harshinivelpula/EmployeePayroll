@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\EmployeePayrollProblems\EmployeePayrollProblemsTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\DELL\source\repos\EmployeePayrollProblems\EmployeePayrollProblemsTest\obj\Debug\net6.0\EmployeePayrollProblemsTest.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EmployeePayrollProblems\EmployeePayrollProblemsTest\obj\Debug\net6.0\EmployeePayrollProblemsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EmployeePayrollProblems\EmployeePayrollProblemsTest\obj\Debug\net6.0\EmployeePayrollProblemsTest.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EmployeePayrollProblems\EmployeePayrollProblemsTest\obj\Debug\net6.0\EmployeePayrollProblemsTest.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EmployeePayrollProblems\EmployeePayrollProblemsTest\obj\Debug\net6.0\EmployeePayrollProblemsTest.csproj.CoreCompileInputs.cache
